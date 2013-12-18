@@ -1,0 +1,6 @@
+# Files
+*.DS_Store
+
+
+# Directories (and thus their content)
+.ipynb_checkpoints/
